@@ -253,7 +253,7 @@ footer{
 <h2>About Our School</h2>
 <p>
 St Thomas Public School is a value-based English medium institution dedicated to nurturing
-young minds from <strong>1st to 8th Standard</strong>. Guided by our motto <strong>“Education is Power”</strong>,
+young minds. Guided by our motto <strong>“Education is Power”</strong>,
 we focus on academic excellence, discipline, moral values, and holistic development.
 </p>
 <br><br>
@@ -268,8 +268,8 @@ for the future.
 <section id="facilities">
 <h2>Our Facilities</h2>
 <div class="cards">
-<div class="card"><img src="/static/images/classroom.jpg"><h3>Well-Equipped Classrooms</h3></div>
-<div class="card"><img src="/static/images/library.jpg"><h3>Library & Reading Area</h3></div>
+<div class="card"><img src="/static/images/classroom.jpg"><h3>Classrooms</h3></div>
+<div class="card"><img src="/static/images/library.jpg"><h3>Reading Area</h3></div>
 <div class="card"><img src="/static/images/science_lab.jpg"><h3>Science Laboratory</h3></div>
 <div class="card"><img src="/static/images/playground.jpg"><h3>Playground & Sports</h3></div>
 </div>
