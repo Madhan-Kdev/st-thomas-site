@@ -296,7 +296,6 @@ for the future.
 
 <section id="contact">
 <h2>Contact Us</h2>
-
 <div class="contact-info">
     <p><strong>Phone:</strong> 9035763109, 8553051042</p>
     <p><strong>Email:</strong> st.thomaspublicschool@gmail.com</p>
