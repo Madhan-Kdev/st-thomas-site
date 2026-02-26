@@ -298,8 +298,9 @@ for the future.
 <h2>Contact Us</h2>
 
 <div class="contact-info">
-    <p><strong>Phone:</strong> 9035763109,8553051042</p>
+    <p><strong>Phone:</strong> 9035763109, 8553051042</p>
     <p><strong>Email:</strong> st.thomaspublicschool@gmail.com</p>
+    <p><strong>Address:</strong> St Thomas Public School, Krishnarajapuram, Kurudusonnenahalli, Bengaluru, Karnataka - 560067</p>
 </div>
 
 <div class="contact">
