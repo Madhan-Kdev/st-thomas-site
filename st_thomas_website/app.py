@@ -279,10 +279,10 @@ for the future.
 <h2>School Gallery</h2>
 
 <div class="gallery">
+    <img src="/static/images/gallery5.jpg">
     <img src="/static/images/school_building.jpg">
     <img src="/static/images/classroom.jpg">
     <img src="/static/images/library.jpg">
-    <img src="/static/images/science_lab.jpg">
     <img src="/static/images/playground.jpg">
 
     <!-- NEW PHOTOS -->
@@ -290,7 +290,7 @@ for the future.
     <img src="/static/images/gallery2.jpg">
     <img src="/static/images/gallery3.jpg">
     <img src="/static/images/gallery4.jpg">
-    <img src="/static/images/gallery5.jpg">
+    <img src="/static/images/science_lab.jpg">
 </div>
 </section>
 
