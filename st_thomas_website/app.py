@@ -253,7 +253,7 @@ footer{
 <h2>About Our School</h2>
 <p>
 St Thomas Public School is a value-based English medium institution dedicated to nurturing
-young minds. Guided by our motto <strong>“Education is Power”</strong>,
+young minds . Guided by our motto <strong>“Education is Power”</strong>,
 we focus on academic excellence, discipline, moral values, and holistic development.
 </p>
 <br><br>
@@ -271,23 +271,37 @@ for the future.
 <div class="card"><img src="/static/images/classroom.jpg"><h3>Classrooms</h3></div>
 <div class="card"><img src="/static/images/library.jpg"><h3>Reading Area</h3></div>
 <div class="card"><img src="/static/images/science_lab.jpg"><h3>Science Laboratory</h3></div>
-<div class="card"><img src="/static/images/playground.jpg"><h3>Playground & Sports</h3></div>
+<div class="card"><img src="/static/images/playground.jpg"><h3>PlayArea</h3></div>
 </div>
 </section>
 
 <section id="gallery">
 <h2>School Gallery</h2>
+
 <div class="gallery">
-<img src="/static/images/school_building.jpg">
-<img src="/static/images/classroom.jpg">
-<img src="/static/images/library.jpg">
-<img src="/static/images/science_lab.jpg">
-<img src="/static/images/playground.jpg">
+    <img src="/static/images/school_building.jpg">
+    <img src="/static/images/classroom.jpg">
+    <img src="/static/images/library.jpg">
+    <img src="/static/images/science_lab.jpg">
+    <img src="/static/images/playground.jpg">
+
+    <!-- NEW PHOTOS -->
+    <img src="/static/images/gallery1.jpg">
+    <img src="/static/images/gallery2.jpg">
+    <img src="/static/images/gallery3.jpg">
+    <img src="/static/images/gallery4.jpg">
+    <img src="/static/images/gallery5.jpg">
 </div>
 </section>
 
 <section id="contact">
 <h2>Contact Us</h2>
+
+<div class="contact-info">
+    <p><strong>Phone:</strong> 9035763109,8553051042</p>
+    <p><strong>Email:</strong> st.thomaspublicschool@gmail.com</p>
+</div>
+
 <div class="contact">
 <form method="POST">
 <input type="text" placeholder="Your Name" required>
@@ -311,4 +325,4 @@ def home():
     return render_template_string(HTML)
 
 if __name__ == "__main__":
-    app.run()
+    app.run(debug=True)
